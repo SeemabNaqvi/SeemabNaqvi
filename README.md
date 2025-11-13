@@ -45,9 +45,10 @@ A functional e-commerce interface with product listing, product details, and car
 **Live:** https://clever-beignet-6ce12f.netlify.app/  
 **Code:** https://github.com/SeemabNaqvi/Dev_Avengers  
 
-### **2. Additional Frontend & Backend Projects**
-Includes multiple practical projects demonstrating core concepts such as product filtering, pagination, todo applications, and API-based job feeds.  
-All projects are available in the repositories section.
+### **3. Code Knights – Collaborative Frontend Project**
+A team-based front-end project built with a structured workflow and clean UI practices.  
+Focused on component-based development, task division, and code consistency across the team.  
+**Code:** https://github.com/SeemabNaqvi/B42_WEB_007_Code-Knights
 
 ---
 

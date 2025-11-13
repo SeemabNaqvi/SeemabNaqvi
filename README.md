@@ -45,15 +45,16 @@ A functional e-commerce interface with product listing, product details, and car
 **Live:** https://clever-beignet-6ce12f.netlify.app/  
 **Code:** https://github.com/SeemabNaqvi/Dev_Avengers  
 
-### **3. Code Knights – Collaborative Frontend Project**
+### **2. Code Knights – Collaborative Frontend Project**
 A team-based front-end project built with a structured workflow and clean UI practices.  
 Focused on component-based development, task division, and code consistency across the team.  
-**Code:** https://github.com/SeemabNaqvi/B42_WEB_007_Code-Knights
+**Live:** https://clever-beignet-6ce12f.netlify.app/  
+**Code:** https://github.com/SeemabNaqvi/B42_WEB_007_Code-Knights  
 
 ### **3. Work-Wise – Employee Productivity Tracker**
-A productivity tracking platform enabling employees to log tasks and managers to access data-driven performance insights.    
-**Live:** [Add your live demo link if available]
-**Code:** https://github.com/SeemabNaqvi/Work-Wise
+A productivity tracking platform enabling employees to log tasks and managers to access data-driven performance insights.  
+**Live:** https://work-wise-20nsffdff-satyajeet1152000s-projects.vercel.app/login  
+**Code:** https://github.com/SeemabNaqvi/Work-Wise  
 
 ---
 
@@ -69,3 +70,4 @@ A productivity tracking platform enabling employees to log tasks and managers to
 For collaboration or professional communication:  
 **Email:** seemabnaqvi6@gmail.com  
 **LinkedIn:** https://www.linkedin.com/in/seemab-naqvi/
+

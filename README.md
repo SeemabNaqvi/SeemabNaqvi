@@ -50,6 +50,11 @@ A team-based front-end project built with a structured workflow and clean UI pra
 Focused on component-based development, task division, and code consistency across the team.  
 **Code:** https://github.com/SeemabNaqvi/B42_WEB_007_Code-Knights
 
+### **3. Work-Wise – Employee Productivity Tracker**
+A productivity tracking platform enabling employees to log tasks and managers to access data-driven performance insights.    
+**Live:** [Add your live demo link if available]
+**Code:** https://github.com/SeemabNaqvi/Work-Wise
+
 ---
 
 ## 📚 Areas of Ongoing Improvement

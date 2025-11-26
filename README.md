@@ -9,12 +9,11 @@ Skilled in creating responsive interfaces, writing readable code, and developing
 
 ## 🔗 Important Links
 <p align="left">
-  <a href="https://marvelous-brioche-546e70.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://playful-faloodeh-1a9077.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/seemab-naqvi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://drive.google.com/file/d/1Jnnt-CJ0bSSE2xm3nm-b2FSsK1nQJpxW/view"><img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
   <a href="mailto:seemabnaqvi6@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
 ---
 
 ## 🛠 Technical Skills
